@@ -1,4 +1,4 @@
-
+#Hecho con Sebastian Tangarife Mazo
 def encriptar(mensaje, n):
     abc = "abcdefghijklmnopqrstuvwxyz"
     cifrado = []
